@@ -16,7 +16,7 @@ cur = db.cursor()
 os.chdir("W:/Configuration/GameStaticFiles/data/logs") # Set the parameter below to your server log root. USE EXACT PATHS
 ddLogName = "runtime.log" # Set this to the name of your DD log file
 useOldSystem = False # Set this to True if your log path if logs/year/month/day instead of logs/year/month/day/round-id
-configured = True # Set this to True once you have configured this file
+configured = False # Set this to True once you have configured this file
 
 # Vars, dont touch
 ddLogPath = ""
