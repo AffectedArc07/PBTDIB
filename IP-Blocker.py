@@ -1,7 +1,5 @@
 # ONLY WORKS ON WINDOWS
 # Script to block connecting IPs if they match a BYOND DOS attempt
-# Uses ntsh to block within windows firewall
-# REQUIRES YOUR SERVER TO BE USING THE ROUND ID SYSTEM FOR LOGGING
 # Original JS Script by monster860
 # Converted to python by AffectedArc07
 
